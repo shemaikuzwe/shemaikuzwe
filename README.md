@@ -10,14 +10,13 @@
 
 
 ## My Projects
-- [Project 1](https://github.com/shemaikuzwe/Ecommerce): An Ecommerce website in next js.
-- [Project 2](https://github.com/shemaikuzwe/15-React-ptojects): React projects for biginners to advanced
+- [Ecommerce](https://github.com/shemaikuzwe/Ecommerce): An Ecommerce website in next js.
+- [15 React projects](https://github.com/shemaikuzwe/15-React-ptojects): React projects for biginners to advanced
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
 
 
 ## GitHub Stats

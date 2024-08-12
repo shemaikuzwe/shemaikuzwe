@@ -1,29 +1,35 @@
- Hi i'm IKUZWE SHEMA Elie a full stack developer 
+# Hey 👋, I'm IKUZWE SHEMA ELie
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shemaikuzwe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikuzwe-shema-elie-791b63304/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shema_elia96/)
 
- About Me
-- I’m currently learning Next js
-- I’m looking to collaborate on [Ecommerce](https://github.com/shemaikuzwe/Ecommerce)
+---
 
-- 📫 How to reach me: [eshemaikuzwe@gmail.com)](mailto:eshemaikuzwe@gmail.com)
+## Glad to see you here!
 
- My Projects
-- [Ecommerce](https://github.com/shemaikuzwe/Ecommerce): An Ecommerce website in next js.
-- [15 React projects](https://github.com/shemaikuzwe/15-React-ptojects): React projects for biginners to advanced
-  
-My Skills
--Javascript 
--react 
--next js
--laravel
--php
--few java
+I'm a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop with cutting-edge backend support.
 
-Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+---
+
+### 🚀 Rapidfire
+- 🔭 I’m currently working on https://github.com/shemaikuzwe/Ecommerce
+- 🌱 I’m currently learning [Next Js]
+
+---
+
+## 🛠️ Languages and Tools
+
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,postgres,mongodb,git,github,java,python,docker,aws)
+
+---
+
+## 📊 Github Stats
+
+| ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemaikuzwe&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaikuzwe&layout=compact&theme=radical) |
+| --- | --- |
+
+
 
 
 

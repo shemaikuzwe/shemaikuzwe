@@ -13,7 +13,7 @@ I'm a full-stack developer who has turned years of freelancing into a full-time 
 ---
 
 ### 🚀 Rapidfire
-- 🔭 I’m currently working on https://github.com/shemaikuzwe/Ecommerce
+- 🔭 I’m currently working on [urban-deals-shop](https://github.com/shemaikuzwe/Ecommerce)
 - 🌱 I’m currently learning Next Js
 
 ---

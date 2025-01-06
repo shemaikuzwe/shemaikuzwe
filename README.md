@@ -8,13 +8,13 @@
 
 ## Glad to see you here!
 
-I'm a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop with cutting-edge backend support.
+I'm a full-stack developer In Next js and Typescript .
 
 ---
 
-### 🚀 Rapidfire
+### 🚀 About Me
 - 🔭 I’m currently working on [urban-deals-shop](https://github.com/shemaikuzwe/Ecommerce)
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m  Next Js Dev
 
 ---
 
@@ -26,7 +26,7 @@ I'm a full-stack developer who has turned years of freelancing into a full-time 
 
 ## 📊 Github Stats
 
-| ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemaikuzwe&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaikuzwe&layout=compact&theme=radical) |
+| ![Shema ikuzwe](https://github-readme-stats.vercel.app/api?username=shemaikuzwe&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shemaikuzwe&layout=compact&theme=radical) |
 | --- | --- |
 
 

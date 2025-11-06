@@ -13,7 +13,7 @@ I'm a full-stack developer In Next js and Typescript .
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [urban-deals-shop](https://github.com/shemaikuzwe/Ecommerce)
+- 🔭 I’m currently running go
 - 🌱 I’m  Next Js Dev
 
 ---

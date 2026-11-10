@@ -1,7 +1,7 @@
 # Hey 👋, I'm IKUZWE SHEMA ELie
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shemaikuzwe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikuzwe-shema-elie-791b63304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shemaikuzwe/)
 ---
 
 ## Glad to see you here!

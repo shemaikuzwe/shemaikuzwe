@@ -13,8 +13,8 @@ I'm a full-stack developer In Next js and Typescript .
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently running go
-- 🌱 I’m  Next Js Dev
+
+- 🌱 I’m  fullstack dev
 
 ---
 

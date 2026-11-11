@@ -6,13 +6,12 @@
 
 ## Glad to see you here!
 
-I'm a full-stack developer In Next js and Typescript .
-
----
-
 ### 🚀 About Me
 
-- 🌱 I’m  fullstack dev
+Software Engineer with 3+ years of experience designing, building and deploying
+production web systems across the backend, frontend and infrastructure. Delivered
+production platforms across fintech, real estate and web hosting. Focused on writing
+clean, tested and maintainable software that scales.
 
 ---
 
